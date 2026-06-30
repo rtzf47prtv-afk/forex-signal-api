@@ -1,0 +1,6 @@
+Flask==3.0.0
+pandas==2.1.4
+pandas-ta==0.3.14b
+Werkzeug==3.0.1
+gunicorn==21.2.0
+
